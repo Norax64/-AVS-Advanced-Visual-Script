@@ -12,7 +12,7 @@ The code is simple to write if you use notepad+ with syntax highlighting and sni
 
 ***
 
-Please read the complete guide here :
+Please read the complete guide here : [Wiki](https://github.com/Norax64/EVS-Easy-Visual-Script/wiki#avs-advanced-visual-script)
 
 Script examples :
 
